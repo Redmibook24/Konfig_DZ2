@@ -1,0 +1,5 @@
+graphviz_path: "E:\\Graphviz\\bin\\dot.exe"   # Укажите путь к Graphviz (замените на ваш путь)
+repo_path: "E:\\test-repo\\.git"
+  # Укажите путь к вашему Git-репозиторию
+output_path: "E:\\dz2konfig\\graph.png" # Укажите имя файла для сохранения графа
+target_file_hash: "file1.txt"    # Укажите хеш целевого файла
